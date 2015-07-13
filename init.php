@@ -5,3 +5,4 @@ echo "edchor2!";
 echo "ed3";
 echo "test2";
 echo "test";
+echo "test3";
